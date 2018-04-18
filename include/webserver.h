@@ -61,7 +61,6 @@ extern const char *str_htmlap;
 extern char disbuff[100];
 
 
-extern char uart_TC_data[256];
 extern char window_1Str1_1[363]; //波特率
 extern char window_1Str2_1[303];//校验位
 extern char head[100];
